@@ -4,15 +4,17 @@
 
 Built with [Next.js](https://nextjs.org/) and a whole lotta vibing, this app personalizes recipes like Bisi Bele Bath and other Karnataka faves based on your taste preferences. Think of it as your culinary co-pilot, but sassier and spicier.
 
+🌐 **Live at:** [bisibelebot.vercel.app](https://bisibelebot.vercel.app/)
+
 ---
 
 ## 🔥 Features
 
 - ✨ Tailored South Indian recipes
-- 🔥 Spice-level customization (because your tongue deserves a choice)
-- ⚡ Quick ingredient swaps (no curry leaves? We got you.)
-- 👨‍🍳 Instant Pot hacks for lazy legends
-- 🍚 Special love for Bisi Bele Bath
+- 🌶️ Spice-level customization (because your tongue deserves a choice)
+- 🥬 Quick ingredient swaps (no curry leaves? we got you.)
+- ⚡ Instant Pot hacks for lazy legends
+- 🍚 Special love for Bisi Bele Bath — obviously.
 
 ---
 
