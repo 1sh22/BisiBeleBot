@@ -7,7 +7,7 @@ export default function BisiBeleBathPage() {
     <Layout>
       <div className="space-y-6 w-full max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-lg">
         <h1 className="text-3xl font-bold text-[#ea580c] text-center mb-4">
-          How to Make Bisi Bele Bath
+          The OG Bisi Bele Bath Recipe
         </h1>
         <div className="text-[#4b5563] space-y-4">
           <p>

@@ -9,6 +9,7 @@ export default function Document() {
           name="description"
           content="Discover personalized recipes inspired by Karnataka cuisine."
         />
+        <link rel="icon" href="/favicon.png" /> {/* Added favicon */}
       </Head>
       <body>
         <Main />
