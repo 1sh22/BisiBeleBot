@@ -4,12 +4,11 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>BisiBeleBot</title> {/* Updated title */}
         <meta
           name="description"
           content="Discover personalized recipes inspired by Karnataka cuisine."
         />
-        <link rel="icon" href="/favicon.png" /> {/* Added favicon */}
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <body>
         <Main />
@@ -18,3 +17,5 @@ export default function Document() {
     </Html>
   );
 }
+
+// Remove the next.config.js content from this file.
